@@ -1,5 +1,3 @@
-import React from "react"
-
 function* someGenerator() {
 
     const helloString = yield 1;
